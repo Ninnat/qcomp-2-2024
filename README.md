@@ -12,7 +12,7 @@ The course consists of 30 lectures, 1.5 hours each. The plan is to cover the fol
 - *Classical computation and complexity classes*: Turing machines; undecidability; the classes P and NP; reduction and NP-completeness; classical circuit model and reversible computation; probabilistic computation
 - *Quantum algorithms*: Deutsch-Jozsa algorithm; Simon’s algorithm; quantum Fourier transform and phase estimation; Shor’s factoring algorithm; Grover’s search algorithm
 - *Quantum error correction*: classical linear codes; quantum error models; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; fault tolerance
-- *Advanced quantum computation*: measurement-based quantum computation; topological quantum memory and quantum computation 
+- *Advanced quantum computation*: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
 
 ## Resources
 
