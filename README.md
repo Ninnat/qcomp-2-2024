@@ -10,7 +10,7 @@ This course is the second half of a year-long sequence on quantum information an
 The course consists of 30 lectures, 1.5 hours each. The plan is to cover the following topics:
 
 - *Classical computation and complexity classes*: Turing machines; undecidability; the classes P and NP; reduction and NP-completeness; classical circuit model and reversible computation; probabilistic computation
-- *Quantum algorithms*: hidden subgroup problems (Deutsch-Jozsa algorithm, Simon’s algorithm, factorization); quantum phase estimation (QPE) and quantum Fourier transform (QFT); quantum algorithms for factoring and discrete logarithm problems; Grover’s search algorithm; amplitude amplification (AA)
+- *Quantum algorithms*: hidden subgroup problems (Deutsch-Jozsa problem, Simon’s problem, factorization); quantum phase estimation (QPE) and quantum Fourier transform (QFT); quantum algorithms for factoring and discrete logarithm problems; Grover’s search algorithm; amplitude amplification (AA); block encoding and quantum singular value transform (QSVT) (if time permits)
 - *Quantum error correction*: classical linear codes; quantum error models; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance
 - *Advanced quantum computation*: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
 
