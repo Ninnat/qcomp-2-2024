@@ -11,10 +11,15 @@ Incorporating quantum theory, we’ve learned over the past three decades that b
 
 This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of 32 lectures, 1.5 hours each. 
 
+- [MM] Cristopher Moore and Stephan Mertens, *The Nature of Computation*, Oxford University Press, 2011
+- [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
+- [Pr] John Preskill, Caltech's Ph219 [Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph229/) lecture notes
+- [KSV] A. Yu. Kitaev, A. H. Shen, and M. N. Vyalyi, *Classical and Quantum Computation*, American Mathematical Society, 2002 
+
 |Topics|Resources|Perspectives|
 |:-----|:--------|:-----------|
-|*Computability and complexity*: decidability; the classes P and NP; classical circuit model and reversible computation; universal gate sets; expotential-size circuit exists; randomized and quantum models| NC 3, MM 1-2,4-5|Pr 5, , KSV 1-4,8-9|
-|*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), hidden subgroup problem (HSP), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms; Grover’s search algorithm|MM 15| Pr 6|
+|*Computability and complexity*: decidability; the classes P and NP; classical circuit model and reversible computation; universal gate sets; expotential-size circuit exists; randomized and quantum models| NC 3, MM 1-2,4-5|Pr 5, KSV 1-4,8-9|
+|*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), hidden subgroup problem (HSP), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms; Grover’s search algorithm|MM 15|Pr 6, NC 5-6, KSV 13|
 |*Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance|NC 10, Pr 7|KSV 15
 
 The rest will be topics selected from the following: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
