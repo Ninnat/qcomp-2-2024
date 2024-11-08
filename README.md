@@ -5,16 +5,19 @@ A repository for M526/P623 Quantum Computation, IF, NU
 
 ## Course information
 
-This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. 
+What does it mean to compute something, and how can we characterize computational efficiency? These questions lie at the heart of our algorithm-driven lives, influencing everything from our drive to automate processes to cryptographic systems that safeguard our information. Beyond these practical concerns, they also touch on profound philosophical questions about intelligence, creativity, and what makes us humans. (Is it CAPTCHA?)
 
-The course consists of 30 lectures, 1.5 hours each. The plan is to cover the following topics:
+Incorporating quantum theory, we’ve learned over the past three decades that basing computation on quantum principles fundamentally transforms our understanding of the boundary between easy and hard problems. In this course, we'll put on our computer scientist hats and dive into computational thinking, and what we could do if we have a large-scale, error-free quantum computer. Then we’ll explore the essential idea to build such a machine–quantum error correction–and, if time permits, the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. 
 
-- *Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), hidden subgroup problem (HSP), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms; Grover’s search algorithm
-- *Computability and complexity*: Turing machines; undecidability; the classes P and NP; reduction and NP-completeness; classical circuit model and reversible computation; probabilistic computation
-- *Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance
-- *Advanced topics in quantum computation*: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
+This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of 32 lectures, 1.5 hours each. 
 
-## Resources
+|Topics|Resources|Perspectives|
+|:-----|:--------|:-----------|
+|*Computability and complexity*: decidability; the classes P and NP; classical circuit model and reversible computation; universal gate sets; expotential-size circuit exists; randomized and quantum models| NC 3, MM 1-2,4-5|Pr 5, , KSV 1-4,8-9|
+|*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), hidden subgroup problem (HSP), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms; Grover’s search algorithm|MM 15| Pr 6|
+|*Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance|NC 10, Pr 7|KSV 15
+
+The rest will be topics selected from the following: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
 
 There is no single textbook that covers all the topics in my preferred way. 
 
