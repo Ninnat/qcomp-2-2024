@@ -1,14 +1,14 @@
 # M526/P623 Quantum Computation
-A repository for M526/P623 Quantum Computation, IF, NU
+A repository for M526/P623 Quantum Computation, IF, NU. This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of 32 lectures, 1.5 hours each. 
 
 ## Announcements
 
 ## Course information
 
 What does it mean to compute something, and how can we characterize computational efficiency? These questions lie at the heart of our algorithm-driven lives, influencing everything from automation to cryptographic systems that safeguard our information. Beyond these practical concerns, they also touch on profound philosophical questions about intelligence, creativity, and what makes us humans. (Is it CAPTCHA?)
-Bringing quantum theory into the mix, we’ve learned over the past three decades that basing computation on quantum principles fundamentally transforms our understanding of the boundary between easy and hard problems. For about half of the course, we'll put on our computer-scientist hats and examine computational thinking and kinds of algorithms we could run on a large-scale, error-free quantum computer. Then we’ll explore the fundamental idea required to build such a machine–quantum error correction–and, if time permits, discuss the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. 
+Bringing quantum theory into the mix, we’ve learned over the past three decades that basing computation on quantum principles fundamentally transforms our understanding of the boundary between easy and hard problems. 
 
-This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of 32 lectures, 1.5 hours each. 
+For roughly the first half of the course, we'll put on our computer-scientist hats and examine computational thinking and kinds of algorithms we could run on a large-scale, error-free quantum computer. Then we’ll explore the fundamental idea required to build such a machine–quantum error correction–and, if time permits, discuss other computational equivalent models of quantum computation and the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. 
 
 - [MM] Cristopher Moore and Stephan Mertens, *The Nature of Computation*, Oxford University Press, 2011
 - [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
