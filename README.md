@@ -20,8 +20,7 @@ What does it mean to compute something, and how can we characterize computationa
 |*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms, hidden subgroup problem (HSP); Grover’s search algorithm|MM 15|Pr 6, NC 5-6, KSV 13|
 |*Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance|Pr 7, NC 10|KSV 15
 | *Alternative models of quantum computation*|
-|*Introduction to computational complexity*| MM 1-2,4-5|NC 3, Pr 5, KSV 1-4,8-9|
-| *Quantum advantages* |
+|*Introduction to computational complexity and limits to classical simulation of quantum computers*| 
 
 The rest will be topics selected from the following: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
 
