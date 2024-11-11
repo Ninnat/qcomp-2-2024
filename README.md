@@ -16,9 +16,10 @@ What does it mean to compute something, and how can we characterize computationa
 
 |Topics|Resources|Perspectives|
 |:-----|:--------|:-----------|
-|*Computability and complexity*: decidability; the classes P and NP; classical circuit model and reversible computation; universal gate sets; expotential-size circuit exists; randomized and quantum models| NC 3, MM 1-2,4-5|Pr 5, KSV 1-4,8-9|
-|*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), hidden subgroup problem (HSP), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms; Grover’s search algorithm|MM 15|Pr 6, NC 5-6, KSV 13|
-|*Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance|NC 10, Pr 7|KSV 15
+|*Computational models*: Turing machine; undecidability; classical circuit model; expotential-size circuit exists; reversible computing; quantum circuit model; subadditivity of errors; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)|NC 3|Pr 5, KSV 1-4,8-9|
+|*Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms, hidden subgroup problem (HSP); Grover’s search algorithm|MM 15|Pr 6, NC 5-6, KSV 13|
+|*Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance|Pr 7, NC 10|KSV 15
+|*Introduction to complexity*: the classes P and NP; NP-reduction; randomized computation; the class BQP| MM 1-2,4-5|NC 3, Pr 5, KSV 1-4,8-9|
 
 The rest will be topics selected from the following: measurement-based quantum computation; topological quantum memory and fault-tolerant computation 
 
