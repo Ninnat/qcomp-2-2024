@@ -39,16 +39,29 @@ No single textbook covers all the topics in this course. *Classical and Quantum 
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Computational models and efficiency I  |   NC 3, MM 1-2   |                                                                                                                                                            |
-
-## Grading Scheme
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Computational models and efficiency I  |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 
 ### MS level
 
+- 40% Assignments
+- 30% Oral exam 
+- 30% Term paper (final weeks)
+- Lecture scribe ?
+
 ### PhD level
 
-- Alternative schemes for universal quantum computation, for instances, adiabatic quantum computation, topological quantum computation, restricted models of quantum computation supplied with magic
-- Delegated quantum computation
-- Advanced quantum algorithms: Hamiltonian simulations, HHL algorithm for linear systems of equations, block encoding and Quantum Singular Value Transform (QSVT)
-- QMA: A quantum analog of the class NP
-- MIP*: Interactive proofs with entangled provers
+- 60% Assignments
+- 20% Term paper (final weeks)
+- 20% Oral presentation (final weeks)
+
+For the MS level, I want you to make an account on Wikipedia and write (as a private draft) an article on your chosen topic.
+
+For the PhD level, you should pick a research-level topic or paper that you want to learn, write a 5-to-10-page term paper and gives a 20-to-30-minute talk based on the term paper.
+
+You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
+
+- Alternative schemes for universal quantum computation such as measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, KLM scheme for linear optical quantum computing
+- Advanced quantum algorithms such as Hamiltonian simulations, HHL algorithm for linear systems of equations, block encoding and Quantum Singular Value Transform (QSVT)
+- Computational complexity of physical problems such as finding a ground state of a local Hamiltonian or estimating the partition function of an Ising model
+- Advanced error correcting codes such as surface codes, color codes, Floquet codes, GKP code for bosonic systems
+- Quantum advantage schemes and heuristic models such as QAQA
