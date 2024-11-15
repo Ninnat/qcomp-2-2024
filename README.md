@@ -58,11 +58,11 @@ For the MS level, I want you to make an account on Wikipedia and write (as a pri
 
 For the PhD level, you should pick a research-level topic or paper that you want to learn, write a 5-to-10-page term paper and gives a 20-to-30-minute talk based on the term paper.
 
-You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
+You should discuss with me about the topic of the report; it should at least be related to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
 - Alternative schemes for universal quantum computation such as measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, or KLM scheme for linear optical quantum computing
 - Advanced quantum algorithms such as Hamiltonian simulations, HHL algorithm for linear systems of equations, or Quantum Singular Value Transform (QSVT) and block encoding
 - Computational complexity of physical problems such as finding the ground state of local Hamiltonians or estimating the partition function of a family of Ising models
 - Advanced error correcting codes such as surface codes, color codes, or GKP code for bosonic systems
 - Heuristic quantum algorithms such as variational eigensolvers or QAOA
-- Quantum advantage schemes such as Boson sampling, IQP sampling, random circuit sampling, or quantum advantages with shallow circuits (over likewise shallow classical circuits)
+- Quantum advantage schemes such as Boson sampling, random circuit sampling, effect of noise for classical simulations
