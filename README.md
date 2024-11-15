@@ -45,8 +45,8 @@ For measurement-based quantum computation and quantum sampling advantage, we wil
 
 - 40% Assignments
 - 10% Lecture scribing
-- 25% Oral exam 
-- 25% Term paper (final weeks)
+- 25% Oral exam (midterm)
+- 25% Term paper (final week)
 
 ### PhD level
 
@@ -65,4 +65,4 @@ You should discuss with me about the topic of the report; it should at least rel
 - Computational complexity of physical problems such as finding the ground state of local Hamiltonians or estimating the partition function of a family of Ising models
 - Advanced error correcting codes such as surface codes, color codes, or GKP code for bosonic systems
 - Heuristic quantum algorithms such as variational eigensolvers or QAOA
-- Quantum advantage schemes such as Boson sampling, IQP sampling, random circuit sampling, or an (unconditional) quantum advantage with shallow circuits
+- Quantum advantage schemes such as Boson sampling, IQP sampling, random circuit sampling, or quantum advantages with shallow circuits (over likewise shallow classical circuits)
