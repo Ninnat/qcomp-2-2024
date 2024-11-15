@@ -18,13 +18,12 @@ This course is the second half of a year-long sequence on quantum information an
 - *Alternative models of quantum computation and limits to classical simulation of quantum computers*: (tentative) measurement-based quantum computation; complexity classes; reduction and hardness; quantum sampling advantage from postselection
 
 No single textbook covers all the topics in this course. *Classical and Quantum Computation* by Kitaev, Shen, and Vyalyi comes close, though it can be quite mathematical and terse. 
-I can recommend the following resources [for specific topics listed in the bracket]:
+For specific topics, I plan to incorporate materials from the following resources:
 - [MM] Cristopher Moore and Stephan Mertens, *The Nature of Computation*, Oxford University Press, 2011 [Algorithms and complexity classes]
 - [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000 [Circuit models]
 - [Pre] John Preskill, Caltech's Ph219 [Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph229/) lecture notes [Circuit models and error correction]
 - [Got] Daniel Gottesman, *Surviving as a Quantum Computer in a Classical World*, [book draft](https://www.cs.umd.edu/class/spring2024/cmsc858G/QECCbook-2024-ch1-15.pdf) [Error correction]
-
-
+For measurement-based quantum computation and quantum sampling advantage, we will decide on useful resources as the course progresses.
 
 <!--
 |Topics|Resources|Perspectives|
@@ -45,15 +44,15 @@ I can recommend the following resources [for specific topics listed in the brack
 ### MS level
 
 - 40% Assignments
-- 30% Oral exam 
-- 30% Term paper (final weeks)
-- Lecture scribe ?
+- 10% Lecture scribing
+- 25% Oral exam 
+- 25% Term paper (final weeks)
 
 ### PhD level
 
 - 60% Assignments
-- 20% Term paper (final weeks)
-- 20% Oral presentation (final weeks)
+- 20% Term paper (final week)
+- 20% Oral presentation (final week)
 
 For the MS level, I want you to make an account on Wikipedia and write (as a private draft) an article on your chosen topic.
 
