@@ -60,8 +60,9 @@ For the PhD level, you should pick a research-level topic or paper that you want
 
 You should discuss with me about the topic of the report; it should at least relates to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
-- Alternative schemes for universal quantum computation such as measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, KLM scheme for linear optical quantum computing
-- Advanced quantum algorithms such as Hamiltonian simulations, HHL algorithm for linear systems of equations, block encoding and Quantum Singular Value Transform (QSVT)
-- Computational complexity of physical problems such as finding a ground state of a local Hamiltonian or estimating the partition function of an Ising model
-- Advanced error correcting codes such as surface codes, color codes, Floquet codes, GKP code for bosonic systems
-- Quantum advantage schemes and heuristic models such as QAQA
+- Alternative schemes for universal quantum computation such as measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, or KLM scheme for linear optical quantum computing
+- Advanced quantum algorithms such as Hamiltonian simulations, HHL algorithm for linear systems of equations, or Quantum Singular Value Transform (QSVT) and block encoding
+- Computational complexity of physical problems such as finding the ground state of local Hamiltonians or estimating the partition function of a family of Ising models
+- Advanced error correcting codes such as surface codes, color codes, or GKP code for bosonic systems
+- Heuristic quantum algorithms such as variational eigensolvers or QAOA
+- Quantum advantage schemes such as Boson sampling, IQP sampling, random circuit sampling, or an (unconditional) quantum advantage with shallow circuits
