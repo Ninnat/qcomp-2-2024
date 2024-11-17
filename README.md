@@ -18,7 +18,7 @@ This course is the second half of a year-long sequence on quantum information an
 
 <!--For roughly the first half of the course, we'll put on our computer-scientist hats and examine computational thinking and kinds of algorithms we could run on a large-scale, error-free quantum computer. Then we’ll explore the fundamental idea required to build such a machine–quantum error correction–and, if time permits, discuss other computationally equivalent models of quantum computation and the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. -->
 
-- *Computational models*: Turing machine; undecidability; classical circuit model; reversible computing; expotential-size circuit exists; quantum circuit model; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)
+- *Computational models*: Turing machine; undecidability; classical circuit model; reversible computing; most functions require expotential-size circuits; quantum circuit model; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)
 - *Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms, hidden subgroup problem (HSP); Grover’s search algorithm
 - *Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance
 - *Alternative models of quantum computation and limits to classical simulation of quantum computers*: (tentative) measurement-based quantum computation; complexity classes; reduction and hardness; quantum sampling advantage from postselection
@@ -29,7 +29,8 @@ For specific topics, I plan to incorporate materials from the following resource
 - [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000 [Circuit models]
 - [Pre] John Preskill, Caltech's Ph219 [Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph229/) lecture notes [Circuit models and error correction]
 - [Got] Daniel Gottesman, *Surviving as a Quantum Computer in a Classical World*, [book draft](https://www.cs.umd.edu/class/spring2024/cmsc858G/QECCbook-2024-ch1-15.pdf) [Error correction]
-For measurement-based quantum computation and quantum sampling advantage, we will decide on useful resources as the course progresses.
+
+For later topics, we will decide on useful resources as the course progresses.
 
 <!--
 |Topics|Resources|Perspectives|
@@ -45,9 +46,9 @@ For measurement-based quantum computation and quantum sampling advantage, we wil
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Computational models and efficiency I  |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|| W Nov 20 | Computational models and efficiency II |
-|| M Nov 25 | Computational models and efficiency III |
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Turing machine and circuit model  |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|| W Nov 20 | Circuit model II |
+|| M Nov 25 | Circuit model III |
 || W Nov 27 |  |
 || Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
 
