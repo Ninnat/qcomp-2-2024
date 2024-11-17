@@ -30,7 +30,7 @@ For specific topics, I plan to incorporate materials from the following resource
 - [Pre] John Preskill, Caltech's Ph219 [Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph229/) lecture notes [Circuit models and error correction]
 - [Got] Daniel Gottesman, *Surviving as a Quantum Computer in a Classical World*, [book draft](https://www.cs.umd.edu/class/spring2024/cmsc858G/QECCbook-2024-ch1-15.pdf) [Error correction]
 
-For later topics, we will decide on useful resources as the course progresses.
+We will decide on useful resources for the latter topics as the course progresses.
 
 <!--
 |Topics|Resources|Perspectives|
@@ -55,7 +55,7 @@ For later topics, we will decide on useful resources as the course progresses.
 ### MS level
 
 - 40% Assignments
-- 10% Lecture scribing
+- 10% Lecture scribing (at least 8 lectures?)
 - 25% Oral exam (midterm)
 - 25% Term paper (final week)
 
