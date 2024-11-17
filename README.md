@@ -14,11 +14,11 @@ What does it mean to compute something, and how can we characterize computationa
 
 ## Course information
 
-This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of 32 lectures, 1.5 hours each. The plan is to cover the following topics:
+This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of (at most) 32 lectures, 1.5 hours each. The plan is to cover the following topics:
 
 <!--For roughly the first half of the course, we'll put on our computer-scientist hats and examine computational thinking and kinds of algorithms we could run on a large-scale, error-free quantum computer. Then we’ll explore the fundamental idea required to build such a machine–quantum error correction–and, if time permits, discuss other computationally equivalent models of quantum computation and the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. -->
 
-- *Computational models*: Turing machine; undecidability; classical circuit model; expotential-size circuit exists; reversible computing; quantum circuit model; subadditivity of errors; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)
+- *Computational models*: Turing machine; undecidability; classical circuit model; reversible computing; expotential-size circuit exists; quantum circuit model; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)
 - *Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms, hidden subgroup problem (HSP); Grover’s search algorithm
 - *Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance
 - *Alternative models of quantum computation and limits to classical simulation of quantum computers*: (tentative) measurement-based quantum computation; complexity classes; reduction and hardness; quantum sampling advantage from postselection
@@ -46,6 +46,10 @@ For measurement-based quantum computation and quantum sampling advantage, we wil
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Computational models and efficiency I  |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|| W Nov 20 | Computational models and efficiency II |
+|| M Nov 25 | Computational models and efficiency III |
+|| W Nov 27 |  |
+|| Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
 
 ### MS level
 
@@ -66,9 +70,10 @@ For the PhD level, you should pick a research-level topic or paper that you want
 
 You should discuss with me about the topic of the report; it should at least be related to a topic covered in this course at an appropriate level. Here are some suggestions to get you started:
 
-- Alternative schemes for universal quantum computation such as measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, or KLM scheme for linear optical quantum computing
-- Advanced quantum algorithms such as Hamiltonian simulations, HHL algorithm for linear systems of equations, or Quantum Singular Value Transform (QSVT) and block encoding
-- Computational complexity of physical problems such as finding the ground state of local Hamiltonians or estimating the partition function of a family of Ising models
-- Advanced error correcting codes such as surface codes, color codes, or GKP code for bosonic systems
-- Heuristic quantum algorithms such as variational eigensolvers or QAOA
-- Quantum advantage schemes such as Boson sampling, random circuit sampling, effect of noise for classical simulations
+- *Alternative schemes for universal quantum computation*: measurement-based quantum computing, adiabatic quantum computing, topological quantum computing, KLM scheme for linear optical quantum computing
+- *Advanced quantum algorithms*: Hamiltonian simulations, HHL algorithm for linear systems of equations, or Quantum Singular Value Transform (QSVT) and block encoding
+- *Heuristic or controversial models for quantum computation*: variational quantum algorithms, QAOA, QRAM
+- *Computational complexity of physical problems*: finding the ground state of local Hamiltonians, estimating the partition function of a family of Ising models
+- *Advanced error correcting codes*: surface codes, color codes, GKP code for bosonic systems
+- *Quantum advantage schemes*: Boson sampling, random circuit sampling, unconditional quantum advantages of shallow quantum circuits, effect of noise for classical simulations
+
