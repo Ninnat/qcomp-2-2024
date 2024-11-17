@@ -5,9 +5,8 @@
 <p align="center">
   <img src="SMBC.png" width="500"/>
 </p>
-
 <p align="center">
-  SMBC, <a href="[https://www.w3schools.com/](https://www.smbc-comics.com/comic/the-talk-3)"> "The Talk" by Scott Aaronson and Zach Weinersmith</a>
+  SMBC, <a href="https://www.smbc-comics.com/comic/the-talk-3"> "The Talk" by Scott Aaronson and Zach Weinersmith</a>
 </p>
 
 What does it mean to compute something, and how can we characterize computational efficiency? These questions lie at the heart of our algorithm-driven lives, influencing everything from automation to information security. Beyond these practical concerns, they also touch on profound philosophical questions about intelligence, creativity, and what makes us humans. (Is it CAPTCHA?) Implications of the theory of computation to such questions was [obvious to Turing himself](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), but what he didn't anticipate was that quantum theory, if used as a foundation of information processing, would fundamentally transform our understanding of what is computationally feasible, shifting the boundary between what we consider easy and hard problems.
