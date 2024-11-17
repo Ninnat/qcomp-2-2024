@@ -4,8 +4,7 @@
 
 <p align="center">
   <img src="SMBC.png" width="500"/>
-</p>
-<p align="center">
+<br>
   SMBC, <a href="https://www.smbc-comics.com/comic/the-talk-3"> "The Talk" by Scott Aaronson and Zach Weinersmith</a>
 </p>
 
