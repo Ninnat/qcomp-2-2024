@@ -46,10 +46,10 @@ We will decide on useful resources for the latter topics as the course progresse
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> Turing machine and circuit model  |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|| W Nov 20 | Circuit model II |
-|| M Nov 25 | Circuit model III |
-|| W Nov 27 |  |
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> efficiency of an algorithm |   NC 3, MM 1-2   |                    John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|| W Nov 20 | Turing machine and circuit model  |
+|| M Nov 25 | Circuit model II |
+|| W Nov 27 | Circuit model III |
 || Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
 
 ### MS level
