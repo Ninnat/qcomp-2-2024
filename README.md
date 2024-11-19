@@ -51,7 +51,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M Nov 25 | Classical circuit model II |
 || W Nov 27 | Reversible computation |
 || Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
-|| W Dec 9 | Quantum circuit model I |
+|| M Dec 9 | Quantum circuit model I |
 || W Dec 11 | Quantum circuit model II |
 
 ### MS level
