@@ -18,7 +18,7 @@ This course is the second half of a year-long sequence on quantum information an
 
 <!--For roughly the first half of the course, we'll put on our computer-scientist hats and examine computational thinking and kinds of algorithms we could run on a large-scale, error-free quantum computer. Then we’ll explore the fundamental idea required to build such a machine–quantum error correction–and, if time permits, discuss other computationally equivalent models of quantum computation and the ongoing quest to find concrete advantages of quantum computers over their classical counterparts. -->
 
-- *Computational models*: Turing machine; undecidability; classical circuit model; reversible computing; most functions require expotential-size circuits; quantum circuit model; Solovay-Kitaev theorem; [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360)
+- *Computational models*: Turing machine; undecidability; classical circuit model; reversible computing; most functions require expotential-size circuits; quantum circuit model; Solovay-Kitaev theorem; most unitaries require exponential-size circuits
 - *Quantum algorithms*: quantum algorithms based on Fourier transform: Deutsch-Jozsa algorithm, Simon’s algorithm, quantum phase estimation (QPE), RSA cryptosystem, Shor's algorithm for factoring and discrete logarithms, hidden subgroup problem (HSP); Grover’s search algorithm
 - *Quantum error correction*: classical linear codes; repetition codes and the Shor code; general properties of quantum error-correcting codes; stabilizer formalism; Gottesman-Knill theorem; basics of fault tolerance
 - *Alternative models of quantum computation and limits to classical simulation of quantum computers*: (tentative) measurement-based quantum computation; complexity classes; reduction and hardness; quantum sampling advantage from postselection
@@ -51,7 +51,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M Nov 25 | Classical circuit model II |
 || W Nov 27 | Reversible computation |
 || Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
-|| M Dec 9 | Quantum circuit model I | NC 4 |  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|[HW2](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW2.pdf OUT </br> DUE M Dec 23)| M Dec 9 | Quantum circuit model I | NC 4 |  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || W Dec 11 | Quantum circuit model II |
 
 ### MS level
