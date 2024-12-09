@@ -46,7 +46,7 @@ We will decide on useful resources for the latter topics as the course progresse
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> efficiency of an algorithm |   NC 3, MM 1-2   |   
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> algorithmic efficiency |   NC 3, MM 1-2   |   
 || W Nov 20 | Turing machines and classical circuit model  |
 || M Nov 25 | Classical circuit model II |
 || W Nov 27 | Reversible computation |
