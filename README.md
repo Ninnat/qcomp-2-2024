@@ -52,7 +52,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || W Nov 27 | Reversible computation |
 || Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
 |[HW2](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW2.pdf) OUT </br> DUE M Dec 23| M Dec 9 | Quantum circuit model I | NC 4 |  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|| W Dec 11 | Quantum circuit model II | Gavin Crooks' little [compendium of few-qubit quantum gates](https://threeplusone.com/pubs/on_gates.pdf)
+|| W Dec 11 | Quantum circuit model II | | Gavin Crooks' little [compendium of few-qubit quantum gates](https://threeplusone.com/pubs/on_gates.pdf)
 || M Dec 16 | Quantum circuit model III |
 || W Dec 18 | Quantum circuit model IV |
 
