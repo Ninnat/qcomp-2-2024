@@ -57,7 +57,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || W Dec 18 | Solovay-Kitaev theorem |
 || M Dec 23 | Trotterization; the [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360) ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || W Dec 25 | Quantum algorithms I |
-|| Dec 30-Jan 3| **New Year holidays**
+|| Dec 30-Jan 3| *No class* (New Year holidays)
 
 ### MS level
 
