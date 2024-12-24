@@ -55,8 +55,8 @@ We will decide on useful resources for the latter topics as the course progresse
 || W Dec 11 | Quantum circuit model II | | Gavin Crooks' [compendium of few-qubit gates](https://threeplusone.com/pubs/on_gates.pdf)
 || M Dec 16 | Quantum circuit model III |
 || W Dec 18 | Solovay-Kitaev theorem |
-|| M Dec 23 | Solovay-Kitaev theorem (cont.); Trotterization ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M Jan 13| W Dec 25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Quantum algorithms I |
+|| M Dec 23 | Solovay-Kitaev theorem (cont.); Trotterization |
+|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M Jan 13| W Dec 25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Quantum algorithms I ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || Dec 30-Jan 3| *No class* (New Year holidays)
 
 ### MS level
