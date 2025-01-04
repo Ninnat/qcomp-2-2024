@@ -46,18 +46,26 @@ We will decide on useful resources for the latter topics as the course progresse
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M Nov 18  |  Course introduction; </br> algorithmic efficiency |   NC 3, MM 1-2   |   
-|| W Nov 20 | Turing machines and classical circuit model  |
-|| M Nov 25 | Classical circuit model II |
-|| W Nov 27 | Reversible computation |
-|| Dec 2-6 | *No class* ([SQST2024](https://sqst2024.org/))
-|[HW2](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW2.pdf) OUT </br> DUE M Dec 23| M Dec 9 | Quantum circuit model I | NC 4 | 
-|| W Dec 11 | Quantum circuit model II | | Gavin Crooks' [compendium of few-qubit gates](https://threeplusone.com/pubs/on_gates.pdf)
-|| M Dec 16 | Quantum circuit model III |
-|| W Dec 18 | Solovay-Kitaev theorem | | Dawson and Nielsen, [The Solovay-Kitaev algorithm](https://arxiv.org/abs/quant-ph/0505030)
-|| M Dec 23 | Solovay-Kitaev theorem (cont.); Trotterization |
-|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M Jan 13| W Dec 25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Quantum algorithms I ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|| Dec 30-Jan 3| *No class* (New Year holidays)
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M 11.18  |  Course introduction; </br> algorithmic efficiency |   NC 3, MM 1-2   |   
+|| W 11.20 | Turing machines and classical circuit model  |
+|| M 11.25 | Classical circuit model II |
+|| W 11.27 | Reversible computation |
+|| 12.02-06 | *No class* ([SQST2024](https://sqst2024.org/))
+|[HW2](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW2.pdf) OUT </br> DUE M 12.23| M 12.09 | Quantum circuit model I | NC 4 | 
+|| W 12.11 | Quantum circuit model II | | Gavin Crooks' [compendium of few-qubit gates](https://threeplusone.com/pubs/on_gates.pdf)
+|| M 12.16 | Quantum circuit model III |
+|| W 12.18 | Solovay-Kitaev theorem | | Dawson and Nielsen, [The Solovay-Kitaev algorithm](https://arxiv.org/abs/quant-ph/0505030)
+|| M 12.23 | Solovay-Kitaev theorem (cont.); Trotterization |
+|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Duetsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|| 12.30-01.03| *No class* (New Year holidays)
+|| M 01.06| 
+|| W 01.08| 
+|| F 01.10| (*Make-up class*)
+|HW4| M 01.13| 
+|| W 01.15| 
+|| M 01.20| 
+|| W 01.22| 
+|| F 01.24| (*Make-up class*)
 
 ### MS level
 
