@@ -46,7 +46,7 @@ We will decide on useful resources for the latter topics as the course progresse
 
 | Homework |      Date      |                  Topics                  |         Resources          | Additional resources                                                                                                                                                                                                                                                                                                             |
 | :------: | :------------: | :--------------------------------------: | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M Dec 9|   M 11.18  |  Course introduction; </br> algorithmic efficiency |   NC 3, MM 1-2   |   
+|  [HW1](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW1.pdf) OUT </br> DUE M 12.09|   M 11.18  |  Course introduction; </br> algorithmic efficiency |   NC 3, MM 1-2   |   
 || W 11.20 | Turing machines and classical circuit model  |
 || M 11.25 | Classical circuit model II |
 || W 11.27 | Reversible computation |
@@ -58,7 +58,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 12.23 | Solovay-Kitaev theorem (cont.); Trotterization |
 |[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Duetsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || 12.30-01.03| *No class* (New Year holidays)
-|| M 01.06| 
+|| M 01.06| | MM 15
 || W 01.08| 
 || F 01.10| (*Make-up class*)
 |HW4| M 01.13| 
