@@ -56,13 +56,13 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 12.16 | Quantum circuit model III |
 || W 12.18 | Solovay-Kitaev theorem | | Dawson and Nielsen, [The Solovay-Kitaev algorithm](https://arxiv.org/abs/quant-ph/0505030)
 || M 12.23 | Solovay-Kitaev theorem (cont.); Trotterization |
-|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Duetsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Deutsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || 12.30-01.03| *No class* (New Year holidays)
-|| M 01.06| Quantum algorithms based on Fourier transform I (Deutsch-Josza, Bernstein-Vazirani) | MM 15
-|| W 01.08| Quantum algorithms based on Fourier transform II (Simon, QFT)
-|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Quantum algorithms based on Fourier transform III (QFT (cont.), QPE) (*Make-up class*)
-|| M 01.13| Quantum algorithms based on Fourier transform IV (Shor)
-|| W 01.15| Quantum algorithms based on Fourier transform V (Shor (cont.))
+|| M 01.06| Quantum Fourier transform I (Deutsch-Josza, Bernstein-Vazirani) | MM 15
+|| W 01.08| Quantum Fourier transform II (Simon, circuit for QFT)
+|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Quantum Fourier transform III (circuit for QFT (cont.), QPE) (*Make-up class*)
+|| M 01.13| Quantum Fourier transform IV (Shor)
+|| W 01.15| Quantum Fourier transform V (Shor (cont.))
 || M 01.20| 
 || W 01.22| 
 || F 01.24| (*Make-up class*)
