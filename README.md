@@ -65,10 +65,10 @@ We will decide on useful resources for the latter topics as the course progresse
 || W 01.15| Shor's factoring algorithm I
 || M 01.20| Shor's factoring algorithm II 
 || W 01.22| Discrete logarithm, graph isomorphism
-|HW5| F 01.24| Graph isomorphism (cont.), discussion (post-quantum cryptography, quantum key distribution)
+|HW5| F 01.24| Graph isomorphism (cont.), wrapping up
 || M 01.27| Grover's search I
 || W 01.29| Grover's search II
-|HW6| M 02.03 | Rudimentary complexity theory
+|HW6| M 02.03 | P vs NP
 || W 02.05 |
 || F 02.07 | NISQ advantage (*Make-up class*)
 || M 02.10 |
