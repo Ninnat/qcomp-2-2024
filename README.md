@@ -50,29 +50,29 @@ We will decide on useful resources for the latter topics as the course progresse
 || W 11.20 | Turing machines and classical circuit model  |
 || M 11.25 | Classical circuit model II |
 || W 11.27 | Reversible computation |
-|| 12.02-06 | *No class* ([SQST2024](https://sqst2024.org/))
+|| 12.02-06 | **No class** </br> ([SQST2024](https://sqst2024.org/))
 |[HW2](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW2.pdf) OUT </br> DUE M 12.23| M 12.09 | Quantum circuit model I | NC 4 | 
 || W 12.11 | Quantum circuit model II | | Gavin Crooks' [compendium of few-qubit gates](https://threeplusone.com/pubs/on_gates.pdf)
 || M 12.16 | Quantum circuit model III |
 || W 12.18 | Solovay-Kitaev theorem | | Dawson and Nielsen, [The Solovay-Kitaev algorithm](https://arxiv.org/abs/quant-ph/0505030)
 || M 12.23 | Solovay-Kitaev theorem (cont.); Trotterization |
 |[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Deutsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
-|| 12.30-01.03| *No class* (New Year holidays)
-|| M 01.06| Quantum algorithms I: Deutsch-Josza, Bernstein-Vazirani | MM 15
-|| W 01.08| Quantum algorithms II: Simon, circuit for QFT
-|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Quantum algorithms III: Circuit for QFT (cont.), Quantum phase estimation (*Make-up class*)
-|| M 01.13| Quantum algorithms IV: RSA cryptosystem
-|| W 01.15| Quantum algorithms V: Shor 
-|| M 01.20| Quantum algorithms VI: Shor (cont.) 
-|| W 01.22| Quantum algorithms VII: Discrete logarithm, graph isomorphism
-|HW5| F 01.24| Quantum algorithms VIII: Graph isomorphism (cont.), discussion (post-quantum cryptography, quantum key distribution)
-|| M 01.27| Quantum algorithms IX: Grover I
-|| W 01.29| Quantum algorithms X: Grover II
+|| 12.30-01.03| **No class** 
+|| M 01.06| Deutsch-Josza, Bernstein-Vazirani | MM 15
+|| W 01.08| Simon, circuit for QFT
+|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Circuit for QFT (cont.), Quantum phase estimation (*Make-up class*)
+|| M 01.13| RSA cryptosystem
+|| W 01.15| Shor I
+|| M 01.20| Shor II 
+|| W 01.22| Discrete logarithm, graph isomorphism
+|HW5| F 01.24| Graph isomorphism (cont.), discussion (post-quantum cryptography, quantum key distribution)
+|| M 01.27| Grover I
+|| W 01.29| Grover II
 |HW6| M 02.03 | Rudimentary complexity theory
 || W 02.05 |
 || F 02.07 | NISQ advantage (*Make-up class*)
 || M 02.10 |
-|| W 02.12 | *No class* (Makha Bucha)
+|| W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | 
 
 
