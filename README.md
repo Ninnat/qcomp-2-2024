@@ -66,6 +66,15 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 01.20| 
 || W 01.22| 
 || F 01.24| (*Make-up class*)
+|| M 01.27|
+|| W 01.29|
+|| M 02.03 |
+|| W 02.05 |
+|| F 02.07 | (*Make-up class*)
+|| 02.10 |
+|| 02.12 | *No class* (Makha Bucha)
+
+
 
 ### MS level
 
