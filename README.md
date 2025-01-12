@@ -65,14 +65,15 @@ We will decide on useful resources for the latter topics as the course progresse
 || W 01.15| Quantum algorithms V: Shor 
 || M 01.20| Quantum algorithms VI: Shor (cont.) 
 || W 01.22| Quantum algorithms VII: Discrete logarithm, graph isomorphism
-|| F 01.24| Quantum algorithms VIII: Graph isomorphism (cont.) 
-|| M 01.27| Quantum algorithms IX: Discussion (post-quantum cryptography, quantum key distribution)
-|| W 01.29| Quantum algorithms X: Grover I
-|| M 02.03 | Quantum algorithms XI: Grover II
-|| W 02.05 | NISQ advantage I
-|| F 02.07 | (*Make-up class*)
-|| 02.10 |
-|| 02.12 | *No class* (Makha Bucha)
+|HW5| F 01.24| Quantum algorithms VIII: Graph isomorphism (cont.), discussion (post-quantum cryptography, quantum key distribution)
+|| M 01.27| Quantum algorithms IX: Grover I
+|| W 01.29| Quantum algorithms X: Grover II
+|HW6| M 02.03 | Rudimentary complexity theory
+|| W 02.05 |
+|| F 02.07 | NISQ advantage (*Make-up class*)
+|| M 02.10 |
+|| W 02.12 | *No class* (Makha Bucha)
+|HW7| M 02.17 | 
 
 
 
