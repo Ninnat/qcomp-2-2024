@@ -62,12 +62,12 @@ We will decide on useful resources for the latter topics as the course progresse
 || W 01.08| Simon, circuit for QFT
 |[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Circuit for QFT (cont.), Quantum phase estimation (*Make-up class*)
 || M 01.13| RSA cryptosystem
-|| W 01.15| Shor I
-|| M 01.20| Shor II 
+|| W 01.15| Shor's factoring algorithm I
+|| M 01.20| Shor's factoring algorithm II 
 || W 01.22| Discrete logarithm, graph isomorphism
 |HW5| F 01.24| Graph isomorphism (cont.), discussion (post-quantum cryptography, quantum key distribution)
-|| M 01.27| Grover I
-|| W 01.29| Grover II
+|| M 01.27| Grover's search I
+|| W 01.29| Grover's search II
 |HW6| M 02.03 | Rudimentary complexity theory
 || W 02.05 |
 || F 02.07 | NISQ advantage (*Make-up class*)
