@@ -60,17 +60,17 @@ We will decide on useful resources for the latter topics as the course progresse
 || 12.30-01.03| **No class** 
 || M 01.06| Deutsch-Josza, Bernstein-Vazirani | MM 15
 || W 01.08| Simon, circuit for QFT
-|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Circuit for QFT (cont.), Quantum phase estimation (*Make-up class*)
+|[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Circuit for QFT (cont.), Quantum phase estimation </br> **(Make-up class)**
 || M 01.13| RSA cryptosystem
 || W 01.15| Shor's factoring algorithm I
 || M 01.20| Shor's factoring algorithm II 
 || W 01.22| Discrete logarithm, graph isomorphism
-|HW5| F 01.24| Graph isomorphism (cont.), wrapping up
+|HW5| F 01.24| Graph isomorphism (cont.), wrapping up </br> **(Make-up class)**
 || M 01.27| Grover's search I
 || W 01.29| Grover's search II
 |HW6| M 02.03 | P vs NP
 || W 02.05 |
-|| F 02.07 | NISQ advantage (*Make-up class*)
+|| F 02.07 | NISQ advantage </br> **(Make-up class)**
 || M 02.10 |
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
