@@ -61,14 +61,14 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 01.06| Quantum algorithms I: Deutsch-Josza, Bernstein-Vazirani | MM 15
 || W 01.08| Quantum algorithms II: Simon, circuit for QFT
 |[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Quantum algorithms III: Circuit for QFT (cont.), Quantum phase estimation (*Make-up class*)
-|| M 01.13| Quantum algorithms IV: Shor
-|| W 01.15| Quantum algorithms V: Shor (cont.)
-|| M 01.20| 
-|| W 01.22| 
-|| F 01.24| (*Make-up class*)
-|| M 01.27|
-|| W 01.29|
-|| M 02.03 |
+|| M 01.13| Quantum algorithms IV: RSA cryptosystem
+|| W 01.15| Quantum algorithms V: Shor I
+|| M 01.20| Quantum algorithms VI: Shor II 
+|| W 01.22| Quantum algorithms VII: Discrete logarithm, nonabelian Fourier transform and graph isomorphism
+|| F 01.24| (*Make-up class*) Quantum algorithms VIII: Graph isomorphism (cont.)
+|| M 01.27| Quantum algorithms IX: Wrapping up, PQC, QKD
+|| W 01.29| Quantum algorithms X: Grover I
+|| M 02.03 | Quantum algorithms XI: Grover II
 || W 02.05 |
 || F 02.07 | (*Make-up class*)
 || 02.10 |
