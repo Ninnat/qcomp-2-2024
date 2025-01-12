@@ -56,14 +56,14 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 12.16 | Quantum circuit model III |
 || W 12.18 | Solovay-Kitaev theorem | | Dawson and Nielsen, [The Solovay-Kitaev algorithm](https://arxiv.org/abs/quant-ph/0505030)
 || M 12.23 | Solovay-Kitaev theorem (cont.); Trotterization |
-|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Deutsch problem ||  John McGreevy, [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
+|[HW3](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW3.pdf) OUT </br> DUE M 01.13| W 12.25 | The [convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360); Deutsch problem ||  John McGreevy's lecture notes: [Quantum Information is Physical](https://mcgreevy.physics.ucsd.edu/f19/index.html)   |
 || 12.30-01.03| **No class** 
 || M 01.06| Deutsch-Josza, Bernstein-Vazirani | MM 15
 || W 01.08| Simon, circuit for QFT
 |[HW4](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW4.pdf) OUT </br> DUE F 01.24| F 01.10| Circuit for QFT (cont.), Quantum phase estimation </br> **(Make-up class)**
 || M 01.13| RSA cryptosystem
 || W 01.15| Shor's factoring algorithm I
-|| M 01.20| Shor's factoring algorithm II 
+|| M 01.20| Shor's factoring algorithm II ||  [Pretending to factor large numbers on a quantum computer](https://arxiv.org/abs/1301.7007)
 || W 01.22| Discrete logarithm, graph isomorphism
 |HW5| F 01.24| Graph isomorphism (cont.), wrapping up </br> **(Make-up class)**
 || M 01.27| Grover's search I
