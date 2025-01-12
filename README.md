@@ -73,7 +73,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || F 02.07 | NISQ advantage (*Make-up class*)
 || M 02.10 |
 || W 02.12 | **No class** </br> (Makha Bucha)
-|HW7| M 02.17 | 
+|HW7| M 02.17 | Quantum error correction I
 
 
 
