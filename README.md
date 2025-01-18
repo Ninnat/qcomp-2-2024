@@ -68,8 +68,8 @@ We will decide on useful resources for the latter topics as the course progresse
 |HW5| F 01.24| Graph isomorphism (cont.), wrapping up </br> **(Make-up class)**
 || M 01.27| Grover's search I
 || W 01.29| Grover's search II
-|HW6| M 02.03 | P vs NP
-|| W 02.05 |
+|| M 02.03 | P vs NP
+|HW6| W 02.05 |
 || F 02.07 | NISQ advantage </br> **(Make-up class)**
 || M 02.10 |
 || W 02.12 | **No class** </br> (Makha Bucha)
