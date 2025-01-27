@@ -69,8 +69,8 @@ We will decide on useful resources for the latter topics as the course progresse
 |HW5| M 01.27| Hidden subgroup problem II  
 || W 01.29| Grover's search I
 || M 02.03| Grover's search II
-|| W 02.05 |
-|HW6| F 02.07 | NISQ advantage </br> **(Make-up class)**
+|| W 02.05 | BQP and quantum advantages
+|HW6| F 02.07 |  </br> **(Make-up class)**
 || M 02.10 |
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
