@@ -65,13 +65,13 @@ We will decide on useful resources for the latter topics as the course progresse
 || W 01.15| Shor's factoring algorithm I
 || M 01.20| Shor's factoring algorithm II ||  Smolin, Smith, and Vargo, [Pretending to factor large numbers on a quantum computer](https://arxiv.org/abs/1301.7007)
 || W 01.22| Discrete logarithm, graph isomorphism
-|| F 01.24| Hidden subgroup problem I </br> **(Make-up class)**
+|| F 01.24| Hidden subgroup problem I </br> **(Make-up class)** | Childs' Quantum Algorithms [lecture notes](https://www.cs.umd.edu/~amchilds/teaching/w13/qic823.html)
 |HW5| M 01.27| Hidden subgroup problem II  
 || W 01.29| Grover's search I
 || M 02.03| Grover's search II
-|| W 02.05 | BQP and quantum advantages
+|| W 02.05 | BQP and quantum advantages | | 
 |HW6| F 02.07 |  </br> **(Make-up class)**
-|| M 02.10 |
+|| M 02.10 | | | Bremner, Josza, Shepherd, [Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy](https://arxiv.org/abs/1005.1407)
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
 
