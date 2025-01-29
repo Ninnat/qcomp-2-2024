@@ -71,7 +71,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 02.03| Grover's search II
 || W 02.05 | BQP and quantum advantages | | 
 |HW6| F 02.07 |  </br> **(Make-up class)**
-|| M 02.10 | | | Bremner, Josza, Shepherd, [Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy](https://arxiv.org/abs/1005.1407)
+|| M 02.10 | | | <!--Bremner, Josza, Shepherd, [Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy](https://arxiv.org/abs/1005.1407)-->
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
 
