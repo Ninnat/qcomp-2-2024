@@ -70,8 +70,8 @@ We will decide on useful resources for the latter topics as the course progresse
 |[HW 5](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW5.pdf) OUT </br> DUE M 02.10| W 01.29| Grover's search I
 || M 02.03| Grover's search II
 || W 02.05 | Computational complexity I (NP, P/poly) | NC 3.2.3-3.2.4, MM 4-5 | KSV part 1 </br> Arora and Barack, *Computational Complexity: A Modern Approach*
-|HW6| F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
-|| M 02.10 | Computational complexity III (polynomial hierarchy, quantum sampling advantages) | | [GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross
+|| F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
+|HW6| M 02.10 | Computational complexity III (polynomial hierarchy, quantum sampling advantages) | | [GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
 
