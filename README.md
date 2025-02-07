@@ -69,9 +69,9 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 01.27| Hidden subgroup problem II  
 |[HW 5](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW5.pdf) OUT </br> DUE M 02.10| W 01.29| Grover's search I
 || M 02.03| Grover's search II
-|| W 02.05 | BQP and quantum advantages I | NC 3.2.3-3.2.4, MM 4-5 | Arora and Barack, *Computational Complexity: A Modern Approach*
-|HW6| F 02.07 |  BQP and quantum advantages II </br> **(Make-up class)**
-|| M 02.10 | BQP and quantum advantages III | | <!--Bremner, Josza, Shepherd, [Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy](https://arxiv.org/abs/1005.1407)-->
+|| W 02.05 | Computational complexity I (NP, P/poly) | NC 3.2.3-3.2.4, MM 4-5 | Arora and Barack, *Computational Complexity: A Modern Approach*
+|HW6| F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
+|| M 02.10 | Computational complexity III (polynomial hierarchy, quantum sampling advantages) | | <!--Bremner, Josza, Shepherd, [Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy](https://arxiv.org/abs/1005.1407)-->
 || W 02.12 | **No class** </br> (Makha Bucha)
 |HW7| M 02.17 | Quantum error correction I
 
