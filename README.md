@@ -73,9 +73,14 @@ We will decide on useful resources for the latter topics as the course progresse
 || F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
 |HW6| M 02.10 | Computational complexity III (BQP ⊂ PSPACE, polynomial hierarchy) | |
 || W 02.12 | **No class** </br> (Makha Bucha)
-|| M 02.17 | Computational complexity IV (#P, sampling quantum advantages) | |  [GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross
-|| W 02.19 |
-|| F 02.21 | 
+|| M 02.17 | Computational complexity IV (#P, sampling quantum advantages) | |  <!--[GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross--> [Quantum sampling problems, BosonSampling and quantum supremacy](https://www.nature.com/articles/s41534-017-0018-2), Lund, Bremner, and Ralph 
+|| W 02.19 | Quantum error correction I
+|| F 02.21 | Quantum error correction II </br> **(Make-up class)**
+|| M 02.24
+|| W 02.26
+|| M 03.03
+|| W 03.05
+|| F 03.07 | </br> **(Make-up class)**
 
 
 
