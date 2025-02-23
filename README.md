@@ -77,9 +77,9 @@ We will decide on useful resources for the latter topics as the course progresse
 |[HW6](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW6.pdf) OUT </br> DUE F 03.07| W 02.19 | Quantum error correction I | NC 10, Pre 7, Got 2,3,6|
 || F 02.21 | Quantum error correction II </br> **(Make-up class)**
 || M 02.24 | Quantum error correction III 
-|| W 02.26 | Stabilizer formalism I
-|| M 03.03 | Stabilizer formalism II
-|| W 03.05 | Stabilizer formalism III
+|| W 02.26 | Quantum error correction IV 
+|| M 03.03 | Stabilizer formalism I
+|| W 03.05 | Stabilizer formalism II
 || F 03.07 | Introduction to Fault Tolerence </br> **(Make-up class)**
 
 
