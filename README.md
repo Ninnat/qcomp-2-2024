@@ -12,6 +12,8 @@ What does it mean to compute something, and how can we characterize computationa
 
 ## Announcements
 
+- *24 Feb 25:* As requested, the final make-up class will be moved up to Friday 28 Feb.
+
 ## Course information
 
 This course is the second half of a year-long sequence on quantum information and computation given at the Institute for Fundamental Study (IF), Naresuan University, academic year 2024. The course will consist of (at most) 32 lectures, 1.5 hours each. The plan is to cover the following topics:
@@ -77,10 +79,10 @@ We will decide on useful resources for the latter topics as the course progresse
 |[HW6](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW6.pdf) OUT </br> DUE F 03.07| W 02.19 | Quantum error correction I | NC 10, Pre 7, Got 2,3,6|
 || F 02.21 | Quantum error correction II </br> **(Make-up class)**
 || M 02.24 | Quantum error correction III 
-|| W 02.26 | Quantum error correction IV 
-|| M 03.03 | Stabilizer formalism I
-|| W 03.05 | Stabilizer formalism II
-|| F 03.07 | Introduction to Fault Tolerence </br> **(Make-up class)**
+|| W 02.26 | Stabilizer formalism I
+|| F 02.28 | Stabilizer formalism II </br> **(Make-up class)**
+|| M 03.03 | 
+|| W 03.05 | 
 
 
 
