@@ -12,7 +12,7 @@ What does it mean to compute something, and how can we characterize computationa
 
 ## Announcements
 
-- *24 Feb 25:* As requested, the final make-up class will be moved up to Friday 28 Feb.
+- *24 Feb:* As requested, the final make-up class will be moved up to Friday, February 28th.
 
 ## Course information
 
