@@ -81,7 +81,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 02.24 | Quantum error correction III 
 || W 02.26 | Stabilizer formalism I
 || F 02.28 | Stabilizer formalism II </br> **(Make-up class)**
-|| M 03.03 | The idea of fault tolerence 
+|| M 03.03 | Clifford gates; the idea of fault tolerence 
 || W 03.05 | Toric code and its threshold 
 
 
