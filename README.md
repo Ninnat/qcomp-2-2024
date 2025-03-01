@@ -75,14 +75,14 @@ We will decide on useful resources for the latter topics as the course progresse
 || F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
 || M 02.10 | Computational complexity III (BQP ⊂ PSPACE, polynomial hierarchy) | |
 || W 02.12 | **No class** </br> (Makha Bucha)
-|| M 02.17 | Computational complexity IV (#P, sampling quantum advantages) | |  <!--[GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross--> [Quantum sampling problems, BosonSampling and quantum supremacy](https://www.nature.com/articles/s41534-017-0018-2), Lund, Bremner, and Ralph 
+|| M 02.17 | Computational complexity IV (#P, sampling quantum advantages) | |  <!--[GapP, Oracles, and Quantum Supremacy](https://scottaaronson.blog/?p=3427), a blog post by Scott Aaronson </br> [From estimation of quantum probabilities to simulation of quantum circuits](https://arxiv.org/abs/1712.02806), Pashayan, Bartlett, and Gross--> [Quantum sampling problems, BosonSampling and quantum supremacy](https://www.nature.com/articles/s41534-017-0018-2), Lund, Bremner and Ralph 
 |[HW6](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW6.pdf) OUT </br> DUE F 03.07| W 02.19 | Quantum error correction I | NC 10, Pre 7, Got 2,3,6|
 || F 02.21 | Quantum error correction II </br> **(Make-up class)**
 || M 02.24 | Quantum error correction III 
 || W 02.26 | Stabilizer formalism I
 || F 02.28 | Stabilizer formalism II </br> **(Make-up class)**
 || M 03.03 | Clifford gates; the idea of fault tolerence 
-|| W 03.05 | Toric code and its threshold 
+|| W 03.05 | Toric code and its threshold || [Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143), Dennis, Kitaev, Landahl and Preskill
 
 
 
