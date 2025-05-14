@@ -71,7 +71,7 @@ We will decide on useful resources for the latter topics as the course progresse
 || M 01.27| Hidden subgroup problem II  
 |[HW 5](https://github.com/Ninnat/qcomp-2-2024/blob/main/Homework/HW5.pdf) OUT </br> DUE M 02.10| W 01.29| Grover's search I
 || M 02.03| Grover's search II
-|| W 02.05 | Computational complexity I (NP, P/poly) | NC 3.2.3-3.2.4, MM 4-5 | KSV part 1 </br> Arora and Barack, *Computational Complexity: A Modern Approach*
+|| W 02.05 | Computational complexity I (NP, P/poly) | NC 3.2.3-3.2.4, MM 4-5 | KSV part 1 </br> Arora and Barak, *Computational Complexity: A Modern Approach*
 || F 02.07 |  Computational complexity II (Cook-Levin, BPP) </br> **(Make-up class)**
 || M 02.10 | Computational complexity III (BQP ⊂ PSPACE, polynomial hierarchy) | |
 || W 02.12 | **No class** </br> (Makha Bucha)
